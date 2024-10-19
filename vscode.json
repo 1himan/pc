@@ -1,0 +1,121 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorCustomizations": {},
+  "editor.cursorSmoothCaretAnimation": "on",
+  "terminal.integrated.accessibleViewPreserveCursorPosition": true,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "colorful-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#0076FF",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": ">",
+      "color": "#EAF622",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#28FF00",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "[]",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "editor.fontSize": 14,
+  "editor.fontFamily": "\"JetBrains Mono\", \"Cascadia Code\"",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "window.customTitleBarVisibility": "auto",
+  "editor.cursorWidth": 2,
+  "workbench.statusBar.visible": false,
+  "workbench.editor.showTabs": "single",
+  "workbench.sideBar.location": "right",
+  "workbench.layoutControl.enabled": false,
+  "workbench.tips.enabled": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 100,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "editor.cursorBlinking": "phase",
+  "terminal.integrated.smoothScrolling": true,
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.renderLineHighlight": "none",
+  "editor.lineHeight": 1.4,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "explorer.confirmPasteNative": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "git.openRepositoryInParentFolders": "never",
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "clangd.path": "c:\\Users\\INDU\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\18.1.3\\clangd_18.1.3\\bin\\clangd.exe",
+  "[cpp]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "workbench.editor.enablePreview": false,
+  "clang-format.executable": "C:\\Program Files\\LLVM\\bin\\clang-format.exe",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "workbench.editorAssociations": {
+    "*.exe": "default"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.activityBar.location": "hidden",
+  "workbench.reduceMotion": "off",
+  "editor.minimap.renderCharacters": false,
+  "zenMode.showTabs": "single",
+  "screencastMode.fontSize": 28,
+  "screencastMode.verticalOffset": 0,
+  "breadcrumbs.enabled": false,
+  "git.ignoreMissingGitWarning": true,
+  "editor.minimap.size": "fit",
+  "editor.accessibilitySupport": "off",
+  "zenMode.centerLayout": false,
+  "zenMode.hideLineNumbers": false,
+  "extensions.ignoreRecommendations": true,
+  "editor.minimap.enabled": false
+}
